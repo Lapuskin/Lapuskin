@@ -1,11 +1,11 @@
-#Hello there! I am MIchael!
+# Hello there! I am MIchael!
 
 # 💫 Let's get acquainted:
 🎓 Now I'm study at the BSUIR<br>🔭 I’m currently working on backend-part for the children's holiday studio in Minsk<br>🌱 I’m currently learning Python, Django and PostgreSQL<br>👯 I'm open to collaborating on interesting projects<br>🌎 Currently located in Minsk
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Michael Lapkovskiy) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-lapkovskiy-20a372267) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
